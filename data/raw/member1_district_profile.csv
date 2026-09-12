@@ -1,0 +1,6 @@
+record_type|record_id|title|category|description|value|unit|date|source_url|source_name|retrieved_at
+fact|district_area|District area|district_profile|Approximately 4471 square kilometres|4471|km2||https://www.kafuecouncil.gov.zm/?page_id=2759|Kafue Town Council|2026-09-11
+fact|constituencies|Constituencies|district_profile|Kafue has one constituency|1|constituency||https://www.kafuecouncil.gov.zm/?page_id=2541|Kafue Town Council|2026-09-11
+fact|wards|Wards|district_profile|Kafue Constituency has 18 wards|18|wards||https://www.kafuecouncil.gov.zm/?page_id=2541|Kafue Town Council|2026-09-11
+fact|population|District population|district_profile|Population reported on the Quick Facts page|219574|people||https://www.kafuecouncil.gov.zm/?page_id=2541|Kafue Town Council|2026-09-11
+fact|province|Province|district_profile|Kafue District is in Lusaka Province|Lusaka|province||https://www.kafuecouncil.gov.zm/?page_id=2759|Kafue Town Council|2026-09-11
