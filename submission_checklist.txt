@@ -1,0 +1,71 @@
+==========================================================
+GROUP 40 — UNZA CSC4792 DATA MINING
+Kafue Town Council Information Dataset
+SUBMISSION CHECKLIST
+==========================================================
+
+STUDENT / GROUP DETAILS
+----------------------------------------------------------
+Group Number : 40
+Course       : CSC4792 — Data Mining
+Institution  : University of Zambia (UNZA)
+Dataset Name : db-unza26-csc4792-kafue_council_information.csv
+
+
+FILES PUSHED TO GITHUB
+----------------------------------------------------------
+[1] db-unza26-csc4792-kafue_council_information.csv   (repo root)
+[2] group40_kafue_dataset.ipynb                       (notebooks/)
+[3] scrape_kafue.py                                   (repo root)
+[4] README.md                                         (repo root)
+[5] kafue_group40_data_description_paper.pdf          (paper/)
+[6] CONTRIBUTIONS.md                                  (repo root)
+[7] submission_checklist.txt                          (repo root)
+
+RAW MEMBER DATA FILES
+----------------------------------------------------------
+[1] data/raw/member1_district_profile.csv
+[2] data/raw/member2_cdf_projects.csv
+[3] data/raw/member3_finance_documents.csv
+[4] data/raw/member4_news_functions.csv
+
+
+LINKS FOR SUBMISSION
+----------------------------------------------------------
+GitHub Repository   : https://github.com/TheeKamfwa/Kafue-town-council-data-mining
+Kaggle Dataset      :https://www.kaggle.com/datasets/kamfwamwansa/kafue-town-council-open-governance-and-development
+Notebook (GitHub)   : https://github.com/TheeKamfwa/Kafue-town-council-data-mining/blob/main/notebooks/group40_kafue_dataset.ipynb
+Data Paper (GitHub) : https://github.com/TheeKamfwa/Kafue-town-council-data-mining/blob/main/paper/kafue_group40_data_description_paper.pdf
+
+
+SUBMISSION TASKS
+----------------------------------------------------------
+[1] All five member contributions recorded in CONTRIBUTIONS.md
+[2] Combined dataset generated and verified
+[3] Jupyter notebook runs from top to bottom without errors
+[4] Scraper script (scrape_kafue.py) runs cleanly and is documented
+[5] README explains repo structure and how to reproduce
+[6] Data description paper completed and exported to PDF
+[7] Dataset uploaded to Kaggle
+[8] All files pushed to GitHub (main branch, in sync)
+
+MOODLE SUBMISSION
+----------------------------------------------------------
+[1] Kaggle link submitted
+[2] GitHub link submitted
+[3] Notebook submitted
+[4] PDF submitted
+
+
+
+NOTES
+----------------------------------------------------------
+- Raw member CSVs preserved in data/raw/ for provenance.
+- Combined dataset produced by merging the four raw CSVs.
+- Notebook regenerates all figures/tables in the paper.
+- Scraper source included for reproducibility.
+
+
+DATE PREPARED : 2026-09-12
+PREPARED BY   : EMMANUEL MWANSA
+==========================================================
