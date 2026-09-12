@@ -1,0 +1,9 @@
+record_type|record_id|title|category|description|value|unit|date|source_url|source_name|retrieved_at
+fact|planning_gis|Planning department function|planning|Manages geographical information systems and development planning||||https://www.kafuecouncil.gov.zm/?page_id=1411|Kafue Town Council|2026-09-11
+fact|engineering_water|Engineering service|engineering|Provides rural water and sanitation services in the district||||https://www.kafuecouncil.gov.zm/?page_id=1415|Kafue Town Council|2026-09-11
+fact|engineering_roads|Engineering service|engineering|Constructs and maintains roads and drainages||||https://www.kafuecouncil.gov.zm/?page_id=1415|Kafue Town Council|2026-09-11
+fact|mandate_services|Council mandate|mandate|Provides municipal services to spur socio-economic development||||https://www.kafuecouncil.gov.zm/?page_id=169|Kafue Town Council|2026-09-11
+fact|cash_for_work_beneficiaries|2026 Revised Cash for Work|official_news|National programme coverage and target reported by the council news post|1500000|beneficiaries|2026|https://www.kafuecouncil.gov.zm/?p=3023|Kafue Town Council|2026-09-11
+news|news_3023|2026 Revised Cash for Work (R-CFW)|official_news|Government programme expanded to all 116 districts and targeted over 1.5 million beneficiaries|| |2025-12-30|https://www.kafuecouncil.gov.zm/?p=3023|Kafue Town Council|2026-09-11
+news|news_2902|HANDOVER CEREMONY OF MOTORBIKES|official_news|COSP procured and handed over 9 motorbikes to Kafue Town Council|9|motorbikes|2025-12-04|https://www.kafuecouncil.gov.zm/?p=2902|Kafue Town Council|2026-09-11
+news|news_2473|KAFUE DISTRICT CELEBRATES WORLD FISHERIES DAY|official_news|Council event highlighted sustainable fisheries and included free health screening services||||2025-11-21|https://www.kafuecouncil.gov.zm/?p=2473|Kafue Town Council|2026-09-11
