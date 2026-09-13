@@ -1,0 +1,17 @@
+{
+  "title": "Kafue Town Council Information Dataset",
+  "id": "kamfwamwansa/kafue-town-council-open-governance-and-development",
+  "subtitle": "Source-traceable public Kafue Council CDF, performance, finance and governance records",
+  "description": "An enriched, source-traceable release for CSC 4792 Group 40, collected from the official Kafue Town Council website and public linked documents. The release contains council facts, public CDF projects, grants, loans, performance records, expenditure-return metrics, document-page extracts and a source manifest. Personal identifiers are excluded.",
+  "description_no_markdown": "An enriched source-traceable public-information release for CSC 4792 Group 40 from the official Kafue Town Council website.",
+  "licenses": [{"name": "CC0: Public Domain"}],
+  "resources": [
+    {"path": "db-unza26-csc4792-kafue_council_information.csv"},
+    {"path": "db-unza26-csc4792-kafue_cdf_records.csv"},
+    {"path": "db-unza26-csc4792-kafue_performance_records.csv"},
+    {"path": "db-unza26-csc4792-kafue_finance_records.csv"},
+    {"path": "db-unza26-csc4792-kafue_document_pages.csv"},
+    {"path": "db-unza26-csc4792-source_manifest.csv"}
+  ],
+  "keywords": ["zambia", "kafue", "local-government", "cdf", "council", "public-finance", "data-mining"]
+}
